@@ -19,11 +19,10 @@ The client, Macora Industries, wanted to know:
 ## 📷 Dashboard Screenshot
 ![Dashboard](screenshots/Dashboard.png)
 
-## 📁 Project Structure
 daikibo-telemetry-analysis/
 │
 ├── data/
-│   └── daikibo-telemetry-data.json (not uploaded due to size/privacy)
+│   └── daikibo-telemetry-data.json  (not uploaded due to privacy)
 │
 ├── screenshots/
 │   └── Dashboard.png
@@ -32,6 +31,7 @@ daikibo-telemetry-analysis/
 │   └── daikibo-analysis.twb
 │
 ├── README.md
+
 
 
 ## ✅ Conclusion
