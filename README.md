@@ -19,20 +19,6 @@ The client, Macora Industries, wanted to know:
 ## 📷 Dashboard Screenshot
 ![Dashboard](screenshots/Dashboard.png)
 
-daikibo-telemetry-analysis/
-
- data/
-    daikibo-telemetry-data.json  (not uploaded due to privacy)
-
- screenshots/
-    Dashboard.png
-
- tableau/
-   daikibo-analysis.twb
-
-README.md
-
-
 ## ✅ Conclusion
 The dashboard created in Tableau helped identify Seiko factory and LaserWelder machines as the main causes of production line disruptions. These insights can help Macora target maintenance and reduce downtime.
 
