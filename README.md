@@ -16,7 +16,7 @@ Daikibo Industries collects telemetry data from 9 types of machines in 4 global 
 2. **Which machines were responsible for the most downtime in that location?**
 
    
-
+---
 
 ## 🛠️ Tools Used
 
@@ -25,6 +25,8 @@ Daikibo Industries collects telemetry data from 9 types of machines in 4 global 
 - **GitHub** – For documentation and sharing results
 
 
+
+---
 
 
 ## 📈 What Was Done
@@ -37,7 +39,7 @@ Daikibo Industries collects telemetry data from 9 types of machines in 4 global 
 4. Combined both into an interactive dashboard
 
 
-
+---
 
 ## 📊 Dashboard Output
 
@@ -47,12 +49,16 @@ The dashboard allows you to:
   
 
 
+---
+
 ## 📷 Dashboard Screenshot
 
 ![Dashboard](screenshots/Dashboard.png)
 
 📎 A screenshot of the dashboard is available in the `screenshots/` folder.
 
+
+---
 
 
 ## 📂 Dataset Preview
@@ -61,6 +67,8 @@ The telemetry data was collected over 1 month from all 4 factories. Each machine
 ### 📁 You can find the full dataset in the 'data/' folder:
 ![daikibo-telemetry-data.json.zip](data/daikibo-telemetry-data.json.zip)
 
+
+---
 
 
 ## 🔍 Key Insights
@@ -74,6 +82,7 @@ The telemetry data was collected over 1 month from all 4 factories. Each machine
 - In the **Device Type** chart filtered for Seiko, LaserWelder clearly stands out.
   
 
+---
 
 
 ### 🧠 Business Insight
@@ -82,7 +91,7 @@ The telemetry data was collected over 1 month from all 4 factories. Each machine
 - **Recommendation:** Investigate common failure causes for LaserWelders in Seiko (e.g., overuse, lack of maintenance, environmental factors).
 
 
-  
+---
 
 ## ✅ Conclusion
 This analysis gives Daikibo a clearer understanding of operational bottlenecks and helps guide targeted maintenance strategies. The interactive dashboard allows ongoing monitoring of downtime trends by factory and machine type.
