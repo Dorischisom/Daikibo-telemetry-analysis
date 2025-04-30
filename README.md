@@ -37,7 +37,7 @@ The dashboard allows you to:
 
 ## 📷 Dashboard Screenshot
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 📎 A screenshot of the dashboard is available in the `screenshots/` folder.
 
