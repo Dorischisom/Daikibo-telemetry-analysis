@@ -3,12 +3,16 @@
 This project analyzes machine telemetry data from four Daikibo factories using Tableau. The goal is to uncover where the most significant assembly line disruptions occur and identify which machines are causing them.
 
 
+
+
 ## 🧠 Business Problem
 
 Daikibo Industries collects telemetry data from 9 types of machines in 4 global factories (Tokyo, Osaka, Berlin, Shenzhen). The company wants to answer two key questions:
 
 1. **Where did machines break the most?**
 2. **Which machines were responsible for the most downtime in that location?**
+
+   
 
 
 ## 🛠️ Tools Used
@@ -17,7 +21,8 @@ Daikibo Industries collects telemetry data from 9 types of machines in 4 global 
 - **JSON** – Data format provided by the client  
 - **GitHub** – For documentation and sharing results
 
----
+
+
 
 ## 📈 What Was Done
 
@@ -29,12 +34,15 @@ Daikibo Industries collects telemetry data from 9 types of machines in 4 global 
 4. Combined both into an interactive dashboard
 
 
+
+
 ## 📊 Dashboard Output
 
 The dashboard allows you to:
 - View total downtime across all factories  
 - Click on any factory bar to filter the machine types in that location
   
+
 
 ## 📷 Dashboard Screenshot
 
@@ -43,11 +51,13 @@ The dashboard allows you to:
 📎 A screenshot of the dashboard is available in the `screenshots/` folder.
 
 
+
 ## 📂 Dataset Preview
 
 The telemetry data was collected over 1 month from all 4 factories. Each machine sent status messages every 10 minutes.
 ### 📁 You can find the full dataset in the 'data/' folder:
-(data/daikibo-telemetry-data.json.zip)
+![daikibo-telemetry-data.json.zip](data/daikibo-telemetry-data.json.zip)
+
 
 
 ## 🔍 Key Insights
@@ -61,10 +71,14 @@ The telemetry data was collected over 1 month from all 4 factories. Each machine
 - In the **Device Type** chart filtered for Seiko, LaserWelder clearly stands out.
   
 
+
+
 ### 🧠 Business Insight
 - **Operational Issue:** Seiko is experiencing more disruptions than other sites, likely due to LaserWelder performance issues.  
 - **Targeted Action:** Maintenance or replacement of LaserWelders at Seiko could significantly reduce downtime.  
 - **Recommendation:** Investigate common failure causes for LaserWelders in Seiko (e.g., overuse, lack of maintenance, environmental factors).
+
+
   
 
 ## ✅ Conclusion
