@@ -5,6 +5,8 @@ This project analyzes machine telemetry data from four Daikibo factories using T
 
 
 
+
+
 ## 🧠 Business Problem
 
 Daikibo Industries collects telemetry data from 9 types of machines in 4 global factories (Tokyo, Osaka, Berlin, Shenzhen). The company wants to answer two key questions:
