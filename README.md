@@ -20,18 +20,17 @@ The client, Macora Industries, wanted to know:
 ![Dashboard](screenshots/Dashboard.png)
 
 daikibo-telemetry-analysis/
-│
-├── data/
-│   └── daikibo-telemetry-data.json  (not uploaded due to privacy)
-│
-├── screenshots/
-│   └── Dashboard.png
-│
-├── tableau/
-│   └── daikibo-analysis.twb
-│
-├── README.md
 
+ data/
+    daikibo-telemetry-data.json  (not uploaded due to privacy)
+
+ screenshots/
+    Dashboard.png
+
+ tableau/
+   daikibo-analysis.twb
+
+README.md
 
 
 ## ✅ Conclusion
